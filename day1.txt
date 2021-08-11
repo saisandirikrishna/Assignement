@@ -1,0 +1,17 @@
+Compiler
+  1.compiler compiles total source code at a time and runs it
+  2.compilation and run time is less
+  3.gives errors after compilation of toale source code so debugging is difficult
+  4.one's compilation is done with out errors then we don't require compiler or source code
+  5.compilation needs more memory
+  6.compiler is used in languages C, C++, C# etc
+
+
+	
+Interpreter 
+  1.interpreter compiles source code line by line
+  2.compilation time is more
+  3.gives errors immediate after compiling a line so debugging is easy
+  4.interpreter and source code is needed after compilation of a code of a line because to compile other lines code
+  5.compilation needs less memory
+  6.interpreter is used in languages like python, ruby etc
